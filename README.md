@@ -37,7 +37,7 @@
   </div>
 </details>
 
-<div align="center"><img src="https://64.media.tumblr.com/71faec9d0ff2e3eb46749c6e30e4f017/80c63d4f68f7996d-fb/s1280x1920/d0b8b09464028c07b325faa8e14db03964d66f47.gifv"></div>
+<div align="center"><img src="https://64.media.tumblr.com/6289ce3330d81f863f04ae6dd169e888/c4d56bb0146990c3-bd/s1280x1920/48787da8e2c4fd996532a006594e9a9b1e106c64.gifv"></div>
 
 ### Thank you for viewing my profile!
 
