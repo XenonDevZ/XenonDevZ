@@ -226,7 +226,7 @@ CI/CD · Version control<br>
 
 <!-- ROW 1: Stats + Languages -->
 <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=XenonDevZ&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=9B1B30&icon_color=9B1B30&text_color=c9d1d9&ring_color=9B1B30&count_private=true&include_all_commits=true&custom_title=XenonDevZ's%20Stats" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=XenonDevZ&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=9B1B30&icon_color=9B1B30&text_color=c9d1d9&ring_color=9B1B30&count_private=true&custom_title=XenonDevZ's%20Stats" />
   &nbsp;&nbsp;
   <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XenonDevZ&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=9B1B30&text_color=c9d1d9&langs_count=6&custom_title=Top%20Languages" />
 </div>
