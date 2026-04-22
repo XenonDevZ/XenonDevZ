@@ -5,19 +5,19 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a1b27,60:6e40c9,100:a855f7&height=300&section=header&text=XenonDevZ&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20UI%20Architect%20%C2%B7%20Open%20Source&descSize=16&descAlignY=62&descColor=c9d1d9&animation=fadeIn&stroke=6e40c9&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a1b27,60:800000,100:9B1B30&height=300&section=header&text=XenonDevZ&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20UI%20Architect%20%C2%B7%20Open%20Source&descSize=16&descAlignY=62&descColor=c9d1d9&animation=fadeIn&stroke=800000&strokeWidth=1" width="100%" />
 
 <!-- TYPING ANIMATION -->
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&repeat=true&width=500&height=30&lines=%E2%96%B8+Turning+ideas+into+elegant+code;%E2%96%B8+Shipping+production-grade+web+apps;%E2%96%B8+TypeScript+%C2%B7+Angular+%C2%B7+Node.js+%C2%B7+MySQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=9B1B30&center=true&vCenter=true&repeat=true&width=500&height=30&lines=%E2%96%B8+Turning+ideas+into+elegant+code;%E2%96%B8+Shipping+production-grade+web+apps;%E2%96%B8+TypeScript+%C2%B7+Angular+%C2%B7+Node.js+%C2%B7+MySQL)](https://git.io/typing-svg)
 
 <br>
 
 <!-- STATUS BADGES -->
-<img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-a855f7?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Based_In-Philippines-a855f7?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Education-BS%20Information%20Technology-a855f7?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-9B1B30?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Based_In-Philippines-9B1B30?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Education-BS%20Information%20Technology-9B1B30?style=flat-square&labelColor=0d1117" />
 
 </div>
 
@@ -226,23 +226,23 @@ CI/CD · Version control<br>
 
 <!-- ROW 1: Stats + Languages -->
 <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=XenonDevZ&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&ring_color=a855f7&count_private=true&include_all_commits=true&custom_title=XenonDevZ's%20Stats" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=XenonDevZ&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=9B1B30&icon_color=9B1B30&text_color=c9d1d9&ring_color=9B1B30&count_private=true&include_all_commits=true&custom_title=XenonDevZ's%20Stats" />
   &nbsp;&nbsp;
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XenonDevZ&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=6&custom_title=Top%20Languages" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XenonDevZ&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=9B1B30&text_color=c9d1d9&langs_count=6&custom_title=Top%20Languages" />
 </div>
 
 <br>
 
 <!-- ROW 2: Streak -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=XenonDevZ&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=1a1b27" width="700" />
+  <img src="https://streak-stats.demolab.com?user=XenonDevZ&theme=dark&hide_border=true&background=0D1117&ring=9B1B30&fire=9B1B30&currStreakLabel=9B1B30&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=1a1b27" width="700" />
 </div>
 
 <br>
 
 <!-- ROW 3: Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XenonDevZ&bg_color=0d1117&color=a855f7&line=a855f7&point=c9d1d9&area=true&area_color=a855f733&hide_border=true&custom_title=Contribution%20Timeline&radius=8" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XenonDevZ&bg_color=0d1117&color=9B1B30&line=9B1B30&point=c9d1d9&area=true&area_color=9B1B3033&hide_border=true&custom_title=Contribution%20Timeline&radius=8" width="95%" />
 </div>
 
 <br>
@@ -310,11 +310,11 @@ CI/CD · Version control<br>
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=XenonDevZ&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=XenonDevZ&color=9B1B30&style=for-the-badge&label=PROFILE+VIEWS" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/XenonDevZ?style=for-the-badge&color=a855f7&labelColor=0d1117&logo=github&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/followers/XenonDevZ?style=for-the-badge&color=9B1B30&labelColor=0d1117&logo=github&label=FOLLOWERS" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/XenonDevZ?style=for-the-badge&color=a855f7&labelColor=0d1117&logo=github&label=STARS" />
+  <img src="https://img.shields.io/github/stars/XenonDevZ?style=for-the-badge&color=9B1B30&labelColor=0d1117&logo=github&label=STARS" />
 
 </div>
 
@@ -326,4 +326,4 @@ CI/CD · Version control<br>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:6e40c9,100:a855f7&height=120&section=footer&reversal=true" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:800000,100:9B1B30&height=120&section=footer&reversal=true" width="100%" />
